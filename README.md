@@ -7,15 +7,15 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ivanaires32&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Ivan Aires github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaires32&layout=compact&hide_border=true&title_color=0000ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ivanaires23&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Ivan Aires github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaires23&layout=compact&hide_border=true&title_color=0000ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
 <div align="center"> 
 <a href = "ivanaires32@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--<a href="https://www.linkedin.com/in/ivan-aires-28aa63238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>-->
+<a href="https://www.linkedin.com/in/ivan-aires-28aa63238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
  
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=#ec6231&labelColor=0D1117)&nbsp;
