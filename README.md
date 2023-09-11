@@ -4,15 +4,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<img src="https://img.freepik.com/vetores-gratis/programador-fazendo-seu-trabalho-apartamento-desenho_52683-14150.jpg?w=826&t=st=1694444571~exp=1694445171~hmac=97fb0e2f3dee0870b6196d6eb03e1125be47d3f828fa2860665e2bd707a7ea5e" align="right" height="300" width="350" height="100"/>
 
-<p>Olá, seja bem vindo</br> Tudo certo? me chamo Ivan Aires, tenho 23 anos sou um nerd que sempre foi apaixonado por tecnologia e sempre quis mergulhar nessa área tão complexa e interessante. Inicialmente cursei Tecnologia de Alimentos, e decidi fazer a transição de carreira para o campo da Tecnologia, onde estou determinado a me tornar um Dev habilidoso. </p>
+</br>
+</br>
 
-### Meus Contados
+<div>Olá, seja bem vindo</div>
+🎓 &nbsp; Atualmente cursando Desenvolvimento Web Full Stack e Engenharia de Software na Driven Education. <br>
+🎓 &nbsp; Concluinte em Tecnologia em alimentos pela Universidade Estadual do Pará.</br>
+📖 &nbsp; Adoro estudar novas tecnologias. </br>
+🎬 &nbsp; Sou nerd que ama os filmes da Marvel. </br>
 
-<div style="display: flex;aling-items: center; justify-content: space-evenly; width: 100vw"> 
-<a href = "ivanaires32@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ivanaires" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<br>
+<br>
  
  ### Principais Habilidades:
   <div style="display: flex;aling-items: center; justify-content: space-evenly; width: 100vw">
@@ -65,6 +69,12 @@
     <img  height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
+### Meus Contados
+
+<div style="display: flex;aling-items: center; justify-content: space-evenly; width: 100vw"> 
+<a href = "ivanaires32@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ivanaires" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
