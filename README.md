@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
-<div align-text=center>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%4287f5&size=32&center=true&vCenter=true&width=800&height=75&lines=Estudante+De+Engenharia+De+Software;Desenvolvedor+FullStack" alt="Headline"/>
-</div>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Oi, Prazer em conhecer você, fique a vontade!</h1>
 
-<p>Olá, seja bem vindo</br> Tudo certo? me chamo Ivan Aires sou um nerd que sempre foi apaixonado por tecnologia e sempre quis mergulhar nessa área tão complexa e interessante. Inicialmente cursei Tecnologia de Alimentos, e decidi fazer a transição de carreira para o campo da Tecnologia, onde estou determinado a me tornar um Dev habilidoso. </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<p>Olá, seja bem vindo</br> Tudo certo? me chamo Ivan Aires, tenho 23 anos sou um nerd que sempre foi apaixonado por tecnologia e sempre quis mergulhar nessa área tão complexa e interessante. Inicialmente cursei Tecnologia de Alimentos, e decidi fazer a transição de carreira para o campo da Tecnologia, onde estou determinado a me tornar um Dev habilidoso. </p>
 
 ### Meus Contados
 
