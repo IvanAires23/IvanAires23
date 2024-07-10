@@ -10,7 +10,7 @@
 </br>
 
 <div>Olá, seja bem vindo</div>
-🎓 &nbsp; Atualmente cursando Desenvolvimento Web Full Stack e Engenharia de Software na Driven Education. <br>
+🎓 &nbsp; Concluir o curso de Desenvolvimento Web Full Stack e Engenharia de Software na Driven Education. <br>
 🎓 &nbsp; Concluinte em Tecnologia em alimentos pela Universidade Estadual do Pará.</br>
 📖 &nbsp; Adoro estudar novas tecnologias. </br>
 🎬 &nbsp; Sou nerd que ama os filmes de super herois. </br>
