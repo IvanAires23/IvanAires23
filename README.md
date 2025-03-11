@@ -10,8 +10,8 @@
 </br>
 
 <div>Olá, seja bem vindo</div>
-🎓 &nbsp; Concluir o curso de Desenvolvimento Web Full Stack e Engenharia de Software na Driven Education. <br>
-🎓 &nbsp; Concluinte em Tecnologia em alimentos pela Universidade Estadual do Pará.</br>
+🎓 &nbsp; Conclui o curso de Desenvolvimento Web Full Stack e Engenharia de Software na Driven Education. <br>
+🎓 &nbsp; Formado em Tecnologia em alimentos pela Universidade Estadual do Pará.</br>
 📖 &nbsp; Adoro estudar novas tecnologias. </br>
 🎬 &nbsp; Sou nerd que ama os filmes de super herois. </br>
 
@@ -27,6 +27,7 @@
     <img  height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img  height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img  height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img height="30" src="https://img.shields.io/badge/React%20Native-1572B6?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img  height="30" src="https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img  height="30" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
     <img  height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
