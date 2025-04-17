@@ -44,6 +44,7 @@
     <img  height="30" src="https://img.shields.io/badge/{REST}-0075A8.svg?logo={REST}r&logoColor=white"/>
     <img  height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img  height="30" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=python&logoColor=white"/>
   </div>
 
 <div style="display: flex;aling-items: center; justify-content: space-evenly; width: 100vw">
