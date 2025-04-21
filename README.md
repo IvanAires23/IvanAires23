@@ -58,6 +58,7 @@
 <div style="display: flex;aling-items: center; justify-content: space-evenly; width: 100vw">
   <h3>Ferramentas</h3>
     <img  height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> 
     <img  height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
     <img  height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     <img  height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
@@ -68,9 +69,16 @@
     <img  height="30" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
     <img  height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<div style="display: flex;aling-items: center; justify-content: space-evenly; width: 100vw">
+   <h3>No-code / Automações</h3>
+    <div style="display: flex; align-items: center; justify-content: space-evenly; width: 100vw">
+     <img height="30" src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=Integromat&logoColor=white"/>
+    </div>
+</div>
+    
 ### No momento estou estudando:
 <div>
-   <img height="30" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 
 </div>
