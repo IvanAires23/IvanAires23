@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
 <img src="https://img.freepik.com/vetores-gratis/programador-fazendo-seu-trabalho-apartamento-desenho_52683-14150.jpg?w=826&t=st=1694444571~exp=1694445171~hmac=97fb0e2f3dee0870b6196d6eb03e1125be47d3f828fa2860665e2bd707a7ea5e" align="right" height="300" width="350" height="100"/>
 
 </br>
